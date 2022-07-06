@@ -1,0 +1,55 @@
+.photo{
+    margin: 0 auto;
+    height: 500px;
+    display: block;
+    border-radius: 200px;
+    border-color: rgb(43, 43, 94);
+    border: 5px solid;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-color: black;
+}
+
+.main-title{
+    margin: 0 auto;
+    display: block;
+    width: 80%;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}   
+
+.main-title h1{
+    line-height: 72px;
+    font-size: 60px;
+}
+
+
+.paragraph{
+    width: 95%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+
+.pos-data{
+    width: 85%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    background-color: rgba(112, 199, 205, 0.548);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 20px;
+    font-family: 'Parisienne', cursive;
+    color: black;
+}
+
+body{
+    background-image: url('https://p.kindpng.com/picc/s/449-4490771_wallpaper-hearts-and-pink-image-black-background-pink.png');
+}
